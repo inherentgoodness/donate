@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/donate/static/css/main.645ebc47.chunk.css",
-    "main.js": "/donate/static/js/main.580609f7.chunk.js",
-    "main.js.map": "/donate/static/js/main.580609f7.chunk.js.map",
+    "main.js": "/donate/static/js/main.a09991a6.chunk.js",
+    "main.js.map": "/donate/static/js/main.a09991a6.chunk.js.map",
     "runtime~main.js": "/donate/static/js/runtime~main.b5b5da11.js",
     "runtime~main.js.map": "/donate/static/js/runtime~main.b5b5da11.js.map",
     "static/js/2.e312cf66.chunk.js": "/donate/static/js/2.e312cf66.chunk.js",
     "static/js/2.e312cf66.chunk.js.map": "/donate/static/js/2.e312cf66.chunk.js.map",
     "index.html": "/donate/index.html",
-    "precache-manifest.93e5b4e7142885633c7067309183a7e6.js": "/donate/precache-manifest.93e5b4e7142885633c7067309183a7e6.js",
+    "precache-manifest.4daf3d5d70b51bad52785c84a0c062a5.js": "/donate/precache-manifest.4daf3d5d70b51bad52785c84a0c062a5.js",
     "service-worker.js": "/donate/service-worker.js",
     "static/css/main.645ebc47.chunk.css.map": "/donate/static/css/main.645ebc47.chunk.css.map",
     "static/media/Unicef_logo_blue.png": "/donate/static/media/Unicef_logo_blue.894a5f03.png",
